@@ -1,6 +1,5 @@
 bin/ 
 build/ 
-# logs/ 
 *.exe 
 *.obj 
 *.log 
@@ -8,5 +7,3 @@ build/
 *.user 
 *.suo 
 *.pdb 
-!logs/
-!logs/*.txt
