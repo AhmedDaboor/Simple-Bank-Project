@@ -8,3 +8,5 @@ build/
 *.user 
 *.suo 
 *.pdb 
+!logs/
+!logs/*.txt
